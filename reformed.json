@@ -1,0 +1,2522 @@
+[
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://auburn.craigslist.org/search/remote-jobs",
+    "name": "auburn",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://bham.craigslist.org/search/remote-jobs",
+    "name": "birmingham",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://dothan.craigslist.org/search/remote-jobs",
+    "name": "dothan",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://shoals.craigslist.org/search/remote-jobs",
+    "name": "florence / muscle shoals",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://gadsden.craigslist.org/search/remote-jobs",
+    "name": "gadsden-anniston",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://huntsville.craigslist.org/search/remote-jobs",
+    "name": "huntsville / decatur",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://mobile.craigslist.org/search/remote-jobs",
+    "name": "mobile",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://montgomery.craigslist.org/search/remote-jobs",
+    "name": "montgomery",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://tuscaloosa.craigslist.org/search/remote-jobs",
+    "name": "tuscaloosa",
+    "checked": false
+  },
+  {
+    "time_zone": "Alaska Time Zone, Hawaii-Aleutian Time Zone",
+    "url": "https://anchorage.craigslist.org/search/remote-jobs",
+    "name": "anchorage / mat-su",
+    "checked": false
+  },
+  {
+    "time_zone": "Alaska Time Zone, Hawaii-Aleutian Time Zone",
+    "url": "https://fairbanks.craigslist.org/search/remote-jobs",
+    "name": "fairbanks",
+    "checked": false
+  },
+  {
+    "time_zone": "Alaska Time Zone, Hawaii-Aleutian Time Zone",
+    "url": "https://kenai.craigslist.org/search/remote-jobs",
+    "name": "kenai peninsula",
+    "checked": false
+  },
+  {
+    "time_zone": "Alaska Time Zone, Hawaii-Aleutian Time Zone",
+    "url": "https://juneau.craigslist.org/search/remote-jobs",
+    "name": "southeast alaska",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://flagstaff.craigslist.org/search/remote-jobs",
+    "name": "flagstaff / sedona",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://mohave.craigslist.org/search/remote-jobs",
+    "name": "mohave county",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://phoenix.craigslist.org/search/remote-jobs",
+    "name": "phoenix",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://prescott.craigslist.org/search/remote-jobs",
+    "name": "prescott",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://showlow.craigslist.org/search/remote-jobs",
+    "name": "show low",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://sierravista.craigslist.org/search/remote-jobs",
+    "name": "sierra vista",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://tucson.craigslist.org/search/remote-jobs",
+    "name": "tucson",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://yuma.craigslist.org/search/remote-jobs",
+    "name": "yuma",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://fayar.craigslist.org/search/remote-jobs",
+    "name": "fayetteville",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://fortsmith.craigslist.org/search/remote-jobs",
+    "name": "fort smith",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://jonesboro.craigslist.org/search/remote-jobs",
+    "name": "jonesboro",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://littlerock.craigslist.org/search/remote-jobs",
+    "name": "little rock",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://texarkana.craigslist.org/search/remote-jobs",
+    "name": "texarkana",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://bakersfield.craigslist.org/search/remote-jobs",
+    "name": "bakersfield",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://chico.craigslist.org/search/remote-jobs",
+    "name": "chico",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://fresno.craigslist.org/search/remote-jobs",
+    "name": "fresno / madera",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://goldcountry.craigslist.org/search/remote-jobs",
+    "name": "gold country",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://hanford.craigslist.org/search/remote-jobs",
+    "name": "hanford-corcoran",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://humboldt.craigslist.org/search/remote-jobs",
+    "name": "humboldt county",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://imperial.craigslist.org/search/remote-jobs",
+    "name": "imperial county",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://inlandempire.craigslist.org/search/remote-jobs",
+    "name": "inland empire",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://losangeles.craigslist.org/search/remote-jobs",
+    "name": "los angeles",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://mendocino.craigslist.org/search/remote-jobs",
+    "name": "mendocino county",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://merced.craigslist.org/search/remote-jobs",
+    "name": "merced",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://modesto.craigslist.org/search/remote-jobs",
+    "name": "modesto",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://monterey.craigslist.org/search/remote-jobs",
+    "name": "monterey bay",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://orangecounty.craigslist.org/search/remote-jobs",
+    "name": "orange county",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://palmsprings.craigslist.org/search/remote-jobs",
+    "name": "palm springs",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://redding.craigslist.org/search/remote-jobs",
+    "name": "redding",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://sacramento.craigslist.org/search/remote-jobs",
+    "name": "sacramento",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://sandiego.craigslist.org/search/remote-jobs",
+    "name": "san diego",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://sfbay.craigslist.org/search/remote-jobs",
+    "name": "san francisco bay area",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://slo.craigslist.org/search/remote-jobs",
+    "name": "san luis obispo",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://santabarbara.craigslist.org/search/remote-jobs",
+    "name": "santa barbara",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://santamaria.craigslist.org/search/remote-jobs",
+    "name": "santa maria",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://siskiyou.craigslist.org/search/remote-jobs",
+    "name": "siskiyou county",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://stockton.craigslist.org/search/remote-jobs",
+    "name": "stockton",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://susanville.craigslist.org/search/remote-jobs",
+    "name": "susanville",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://ventura.craigslist.org/search/remote-jobs",
+    "name": "ventura county",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://visalia.craigslist.org/search/remote-jobs",
+    "name": "visalia-tulare",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://yubasutter.craigslist.org/search/remote-jobs",
+    "name": "yuba-sutter",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://boulder.craigslist.org/search/remote-jobs",
+    "name": "boulder",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://cosprings.craigslist.org/search/remote-jobs",
+    "name": "colorado springs",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://denver.craigslist.org/search/remote-jobs",
+    "name": "denver",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://eastco.craigslist.org/search/remote-jobs",
+    "name": "eastern CO",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://fortcollins.craigslist.org/search/remote-jobs",
+    "name": "fort collins / north CO",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://rockies.craigslist.org/search/remote-jobs",
+    "name": "high rockies",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://pueblo.craigslist.org/search/remote-jobs",
+    "name": "pueblo",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://westslope.craigslist.org/search/remote-jobs",
+    "name": "western slope",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://newlondon.craigslist.org/search/remote-jobs",
+    "name": "eastern CT",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://hartford.craigslist.org/search/remote-jobs",
+    "name": "hartford",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://newhaven.craigslist.org/search/remote-jobs",
+    "name": "new haven",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://nwct.craigslist.org/search/remote-jobs",
+    "name": "northwest CT",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://delaware.craigslist.org/search/remote-jobs",
+    "name": "delaware",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://washingtondc.craigslist.org/search/remote-jobs",
+    "name": "washington",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://miami.craigslist.org/search/remote-jobs",
+    "name": "broward county",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://daytona.craigslist.org/search/remote-jobs",
+    "name": "daytona beach",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://keys.craigslist.org/search/remote-jobs",
+    "name": "florida keys",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://miami.craigslist.org/search/remote-jobs",
+    "name": "fort lauderdale",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://fortmyers.craigslist.org/search/remote-jobs",
+    "name": "ft myers / SW florida",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://gainesville.craigslist.org/search/remote-jobs",
+    "name": "gainesville",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://cfl.craigslist.org/search/remote-jobs",
+    "name": "heartland florida",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://jacksonville.craigslist.org/search/remote-jobs",
+    "name": "jacksonville",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://lakeland.craigslist.org/search/remote-jobs",
+    "name": "lakeland",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://miami.craigslist.org/search/remote-jobs",
+    "name": "miami / dade",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://lakecity.craigslist.org/search/remote-jobs",
+    "name": "north central FL",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://ocala.craigslist.org/search/remote-jobs",
+    "name": "ocala",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://okaloosa.craigslist.org/search/remote-jobs",
+    "name": "okaloosa / walton",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://orlando.craigslist.org/search/remote-jobs",
+    "name": "orlando",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://panamacity.craigslist.org/search/remote-jobs",
+    "name": "panama city",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://pensacola.craigslist.org/search/remote-jobs",
+    "name": "pensacola",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://sarasota.craigslist.org/search/remote-jobs",
+    "name": "sarasota-bradenton",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://miami.craigslist.org/search/remote-jobs",
+    "name": "south florida",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://spacecoast.craigslist.org/search/remote-jobs",
+    "name": "space coast",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://staugustine.craigslist.org/search/remote-jobs",
+    "name": "st augustine",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://tallahassee.craigslist.org/search/remote-jobs",
+    "name": "tallahassee",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://tampa.craigslist.org/search/remote-jobs",
+    "name": "tampa bay area",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://treasure.craigslist.org/search/remote-jobs",
+    "name": "treasure coast",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://miami.craigslist.org/search/remote-jobs",
+    "name": "palm beach county",
+    "checked": false
+  },
+  {
+    "time_zone": "Hawaii-Aleutian Time Zone",
+    "url": "https://albanyga.craigslist.org/search/remote-jobs",
+    "name": "albany",
+    "checked": false
+  },
+  {
+    "time_zone": "Hawaii-Aleutian Time Zone",
+    "url": "https://athensga.craigslist.org/search/remote-jobs",
+    "name": "athens",
+    "checked": false
+  },
+  {
+    "time_zone": "Hawaii-Aleutian Time Zone",
+    "url": "https://atlanta.craigslist.org/search/remote-jobs",
+    "name": "atlanta",
+    "checked": false
+  },
+  {
+    "time_zone": "Hawaii-Aleutian Time Zone",
+    "url": "https://augusta.craigslist.org/search/remote-jobs",
+    "name": "augusta",
+    "checked": false
+  },
+  {
+    "time_zone": "Hawaii-Aleutian Time Zone",
+    "url": "https://brunswick.craigslist.org/search/remote-jobs",
+    "name": "brunswick",
+    "checked": false
+  },
+  {
+    "time_zone": "Hawaii-Aleutian Time Zone",
+    "url": "https://columbusga.craigslist.org/search/remote-jobs",
+    "name": "columbus",
+    "checked": false
+  },
+  {
+    "time_zone": "Hawaii-Aleutian Time Zone",
+    "url": "https://macon.craigslist.org/search/remote-jobs",
+    "name": "macon / warner robins",
+    "checked": false
+  },
+  {
+    "time_zone": "Hawaii-Aleutian Time Zone",
+    "url": "https://nwga.craigslist.org/search/remote-jobs",
+    "name": "northwest GA",
+    "checked": false
+  },
+  {
+    "time_zone": "Hawaii-Aleutian Time Zone",
+    "url": "https://savannah.craigslist.org/search/remote-jobs",
+    "name": "savannah / hinesville",
+    "checked": false
+  },
+  {
+    "time_zone": "Hawaii-Aleutian Time Zone",
+    "url": "https://statesboro.craigslist.org/search/remote-jobs",
+    "name": "statesboro",
+    "checked": false
+  },
+  {
+    "time_zone": "Hawaii-Aleutian Time Zone",
+    "url": "https://valdosta.craigslist.org/search/remote-jobs",
+    "name": "valdosta",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone, Pacific Time Zone",
+    "url": "https://honolulu.craigslist.org/search/remote-jobs",
+    "name": "hawaii",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://boise.craigslist.org/search/remote-jobs",
+    "name": "boise",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://eastidaho.craigslist.org/search/remote-jobs",
+    "name": "east idaho",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://lewiston.craigslist.org/search/remote-jobs",
+    "name": "lewiston / clarkston",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://twinfalls.craigslist.org/search/remote-jobs",
+    "name": "twin falls",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://bn.craigslist.org/search/remote-jobs",
+    "name": "bloomington-normal",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://chambana.craigslist.org/search/remote-jobs",
+    "name": "champaign urbana",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://chicago.craigslist.org/search/remote-jobs",
+    "name": "chicago",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://decatur.craigslist.org/search/remote-jobs",
+    "name": "decatur",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://lasalle.craigslist.org/search/remote-jobs",
+    "name": "la salle co",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://mattoon.craigslist.org/search/remote-jobs",
+    "name": "mattoon-charleston",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://peoria.craigslist.org/search/remote-jobs",
+    "name": "peoria",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://rockford.craigslist.org/search/remote-jobs",
+    "name": "rockford",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://carbondale.craigslist.org/search/remote-jobs",
+    "name": "southern illinois",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://springfieldil.craigslist.org/search/remote-jobs",
+    "name": "springfield",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://quincy.craigslist.org/search/remote-jobs",
+    "name": "western IL",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://bloomington.craigslist.org/search/remote-jobs",
+    "name": "bloomington",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://evansville.craigslist.org/search/remote-jobs",
+    "name": "evansville",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://fortwayne.craigslist.org/search/remote-jobs",
+    "name": "fort wayne",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://indianapolis.craigslist.org/search/remote-jobs",
+    "name": "indianapolis",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://kokomo.craigslist.org/search/remote-jobs",
+    "name": "kokomo",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://tippecanoe.craigslist.org/search/remote-jobs",
+    "name": "lafayette / west lafayette",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://muncie.craigslist.org/search/remote-jobs",
+    "name": "muncie / anderson",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://richmondin.craigslist.org/search/remote-jobs",
+    "name": "richmond",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://southbend.craigslist.org/search/remote-jobs",
+    "name": "south bend / michiana",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://terrehaute.craigslist.org/search/remote-jobs",
+    "name": "terre haute",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://ames.craigslist.org/search/remote-jobs",
+    "name": "ames",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://cedarrapids.craigslist.org/search/remote-jobs",
+    "name": "cedar rapids",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://desmoines.craigslist.org/search/remote-jobs",
+    "name": "des moines",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://dubuque.craigslist.org/search/remote-jobs",
+    "name": "dubuque",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://fortdodge.craigslist.org/search/remote-jobs",
+    "name": "fort dodge",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://iowacity.craigslist.org/search/remote-jobs",
+    "name": "iowa city",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://masoncity.craigslist.org/search/remote-jobs",
+    "name": "mason city",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://quadcities.craigslist.org/search/remote-jobs",
+    "name": "quad cities",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://siouxcity.craigslist.org/search/remote-jobs",
+    "name": "sioux city",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://ottumwa.craigslist.org/search/remote-jobs",
+    "name": "southeast IA",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://waterloo.craigslist.org/search/remote-jobs",
+    "name": "waterloo / cedar falls",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://lawrence.craigslist.org/search/remote-jobs",
+    "name": "lawrence",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://ksu.craigslist.org/search/remote-jobs",
+    "name": "manhattan",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://nwks.craigslist.org/search/remote-jobs",
+    "name": "northwest KS",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://salina.craigslist.org/search/remote-jobs",
+    "name": "salina",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://seks.craigslist.org/search/remote-jobs",
+    "name": "southeast KS",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://swks.craigslist.org/search/remote-jobs",
+    "name": "southwest KS",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://topeka.craigslist.org/search/remote-jobs",
+    "name": "topeka",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://wichita.craigslist.org/search/remote-jobs",
+    "name": "wichita",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://bgky.craigslist.org/search/remote-jobs",
+    "name": "bowling green",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://eastky.craigslist.org/search/remote-jobs",
+    "name": "eastern kentucky",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://lexington.craigslist.org/search/remote-jobs",
+    "name": "lexington",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://louisville.craigslist.org/search/remote-jobs",
+    "name": "louisville",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://owensboro.craigslist.org/search/remote-jobs",
+    "name": "owensboro",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://westky.craigslist.org/search/remote-jobs",
+    "name": "western KY",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://batonrouge.craigslist.org/search/remote-jobs",
+    "name": "baton rouge",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://cenla.craigslist.org/search/remote-jobs",
+    "name": "central louisiana",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://houma.craigslist.org/search/remote-jobs",
+    "name": "houma",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://lafayette.craigslist.org/search/remote-jobs",
+    "name": "lafayette",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://lakecharles.craigslist.org/search/remote-jobs",
+    "name": "lake charles",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://monroe.craigslist.org/search/remote-jobs",
+    "name": "monroe",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://neworleans.craigslist.org/search/remote-jobs",
+    "name": "new orleans",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://shreveport.craigslist.org/search/remote-jobs",
+    "name": "shreveport",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://maine.craigslist.org/search/remote-jobs",
+    "name": "maine",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://annapolis.craigslist.org/search/remote-jobs",
+    "name": "annapolis",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://baltimore.craigslist.org/search/remote-jobs",
+    "name": "baltimore",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://easternshore.craigslist.org/search/remote-jobs",
+    "name": "eastern shore",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://frederick.craigslist.org/search/remote-jobs",
+    "name": "frederick",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://smd.craigslist.org/search/remote-jobs",
+    "name": "southern maryland",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://westmd.craigslist.org/search/remote-jobs",
+    "name": "western maryland",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://boston.craigslist.org/search/remote-jobs",
+    "name": "boston",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://capecod.craigslist.org/search/remote-jobs",
+    "name": "cape cod / islands",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://southcoast.craigslist.org/search/remote-jobs",
+    "name": "south coast",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://westernmass.craigslist.org/search/remote-jobs",
+    "name": "western massachusetts",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://worcester.craigslist.org/search/remote-jobs",
+    "name": "worcester / central MA",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://annarbor.craigslist.org/search/remote-jobs",
+    "name": "ann arbor",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://battlecreek.craigslist.org/search/remote-jobs",
+    "name": "battle creek",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://centralmich.craigslist.org/search/remote-jobs",
+    "name": "central michigan",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://detroit.craigslist.org/search/remote-jobs",
+    "name": "detroit metro",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://flint.craigslist.org/search/remote-jobs",
+    "name": "flint",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://grandrapids.craigslist.org/search/remote-jobs",
+    "name": "grand rapids",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://holland.craigslist.org/search/remote-jobs",
+    "name": "holland",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://jxn.craigslist.org/search/remote-jobs",
+    "name": "jackson",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://kalamazoo.craigslist.org/search/remote-jobs",
+    "name": "kalamazoo",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://lansing.craigslist.org/search/remote-jobs",
+    "name": "lansing",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://monroemi.craigslist.org/search/remote-jobs",
+    "name": "monroe",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://muskegon.craigslist.org/search/remote-jobs",
+    "name": "muskegon",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://nmi.craigslist.org/search/remote-jobs",
+    "name": "northern michigan",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://porthuron.craigslist.org/search/remote-jobs",
+    "name": "port huron",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://saginaw.craigslist.org/search/remote-jobs",
+    "name": "saginaw-midland-baycity",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://swmi.craigslist.org/search/remote-jobs",
+    "name": "southwest michigan",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://thumb.craigslist.org/search/remote-jobs",
+    "name": "the thumb",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://up.craigslist.org/search/remote-jobs",
+    "name": "upper peninsula",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://bemidji.craigslist.org/search/remote-jobs",
+    "name": "bemidji",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://brainerd.craigslist.org/search/remote-jobs",
+    "name": "brainerd",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://duluth.craigslist.org/search/remote-jobs",
+    "name": "duluth / superior",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://mankato.craigslist.org/search/remote-jobs",
+    "name": "mankato",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://minneapolis.craigslist.org/search/remote-jobs",
+    "name": "minneapolis / st paul",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://rmn.craigslist.org/search/remote-jobs",
+    "name": "rochester",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://marshall.craigslist.org/search/remote-jobs",
+    "name": "southwest MN",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://stcloud.craigslist.org/search/remote-jobs",
+    "name": "st cloud",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://gulfport.craigslist.org/search/remote-jobs",
+    "name": "gulfport / biloxi",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://hattiesburg.craigslist.org/search/remote-jobs",
+    "name": "hattiesburg",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://jackson.craigslist.org/search/remote-jobs",
+    "name": "jackson",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://meridian.craigslist.org/search/remote-jobs",
+    "name": "meridian",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://northmiss.craigslist.org/search/remote-jobs",
+    "name": "north mississippi",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://natchez.craigslist.org/search/remote-jobs",
+    "name": "southwest MS",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://columbiamo.craigslist.org/search/remote-jobs",
+    "name": "columbia / jeff city",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://joplin.craigslist.org/search/remote-jobs",
+    "name": "joplin",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://kansascity.craigslist.org/search/remote-jobs",
+    "name": "kansas city",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://kirksville.craigslist.org/search/remote-jobs",
+    "name": "kirksville",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://loz.craigslist.org/search/remote-jobs",
+    "name": "lake of the ozarks",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://semo.craigslist.org/search/remote-jobs",
+    "name": "southeast missouri",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://springfield.craigslist.org/search/remote-jobs",
+    "name": "springfield",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://stjoseph.craigslist.org/search/remote-jobs",
+    "name": "st joseph",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://stlouis.craigslist.org/search/remote-jobs",
+    "name": "st louis",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://billings.craigslist.org/search/remote-jobs",
+    "name": "billings",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://bozeman.craigslist.org/search/remote-jobs",
+    "name": "bozeman",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://butte.craigslist.org/search/remote-jobs",
+    "name": "butte",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://greatfalls.craigslist.org/search/remote-jobs",
+    "name": "great falls",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://helena.craigslist.org/search/remote-jobs",
+    "name": "helena",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://kalispell.craigslist.org/search/remote-jobs",
+    "name": "kalispell",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://missoula.craigslist.org/search/remote-jobs",
+    "name": "missoula",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://montana.craigslist.org/search/remote-jobs",
+    "name": "eastern montana",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone, Mountain Time Zone",
+    "url": "https://grandisland.craigslist.org/search/remote-jobs",
+    "name": "grand island",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone, Mountain Time Zone",
+    "url": "https://lincoln.craigslist.org/search/remote-jobs",
+    "name": "lincoln",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone, Mountain Time Zone",
+    "url": "https://northplatte.craigslist.org/search/remote-jobs",
+    "name": "north platte",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone, Mountain Time Zone",
+    "url": "https://omaha.craigslist.org/search/remote-jobs",
+    "name": "omaha / council bluffs",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone, Mountain Time Zone",
+    "url": "https://scottsbluff.craigslist.org/search/remote-jobs",
+    "name": "scottsbluff / panhandle",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://elko.craigslist.org/search/remote-jobs",
+    "name": "elko",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://lasvegas.craigslist.org/search/remote-jobs",
+    "name": "las vegas",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://reno.craigslist.org/search/remote-jobs",
+    "name": "reno / tahoe",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://nh.craigslist.org/search/remote-jobs",
+    "name": "new hampshire",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://cnj.craigslist.org/search/remote-jobs",
+    "name": "central NJ",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://jerseyshore.craigslist.org/search/remote-jobs",
+    "name": "jersey shore",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://newjersey.craigslist.org/search/remote-jobs",
+    "name": "north jersey",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://southjersey.craigslist.org/search/remote-jobs",
+    "name": "south jersey",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://albuquerque.craigslist.org/search/remote-jobs",
+    "name": "albuquerque",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://clovis.craigslist.org/search/remote-jobs",
+    "name": "clovis / portales",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://farmington.craigslist.org/search/remote-jobs",
+    "name": "farmington",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://lascruces.craigslist.org/search/remote-jobs",
+    "name": "las cruces",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://roswell.craigslist.org/search/remote-jobs",
+    "name": "roswell / carlsbad",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://santafe.craigslist.org/search/remote-jobs",
+    "name": "santa fe / taos",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://albany.craigslist.org/search/remote-jobs",
+    "name": "albany",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://binghamton.craigslist.org/search/remote-jobs",
+    "name": "binghamton",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://buffalo.craigslist.org/search/remote-jobs",
+    "name": "buffalo",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://catskills.craigslist.org/search/remote-jobs",
+    "name": "catskills",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://chautauqua.craigslist.org/search/remote-jobs",
+    "name": "chautauqua",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://elmira.craigslist.org/search/remote-jobs",
+    "name": "elmira-corning",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://fingerlakes.craigslist.org/search/remote-jobs",
+    "name": "finger lakes",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://glensfalls.craigslist.org/search/remote-jobs",
+    "name": "glens falls",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://hudsonvalley.craigslist.org/search/remote-jobs",
+    "name": "hudson valley",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://ithaca.craigslist.org/search/remote-jobs",
+    "name": "ithaca",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://longisland.craigslist.org/search/remote-jobs",
+    "name": "long island",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://newyork.craigslist.org/search/remote-jobs",
+    "name": "new york city",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://oneonta.craigslist.org/search/remote-jobs",
+    "name": "oneonta",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://plattsburgh.craigslist.org/search/remote-jobs",
+    "name": "plattsburgh-adirondacks",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://potsdam.craigslist.org/search/remote-jobs",
+    "name": "potsdam-canton-massena",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://rochester.craigslist.org/search/remote-jobs",
+    "name": "rochester",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://syracuse.craigslist.org/search/remote-jobs",
+    "name": "syracuse",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://twintiers.craigslist.org/search/remote-jobs",
+    "name": "twin tiers NY/PA",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://utica.craigslist.org/search/remote-jobs",
+    "name": "utica-rome-oneida",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://watertown.craigslist.org/search/remote-jobs",
+    "name": "watertown",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://asheville.craigslist.org/search/remote-jobs",
+    "name": "asheville",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://boone.craigslist.org/search/remote-jobs",
+    "name": "boone",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://charlotte.craigslist.org/search/remote-jobs",
+    "name": "charlotte",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://eastnc.craigslist.org/search/remote-jobs",
+    "name": "eastern NC",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://fayetteville.craigslist.org/search/remote-jobs",
+    "name": "fayetteville",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://greensboro.craigslist.org/search/remote-jobs",
+    "name": "greensboro",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://hickory.craigslist.org/search/remote-jobs",
+    "name": "hickory / lenoir",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://onslow.craigslist.org/search/remote-jobs",
+    "name": "jacksonville",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://outerbanks.craigslist.org/search/remote-jobs",
+    "name": "outer banks",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://raleigh.craigslist.org/search/remote-jobs",
+    "name": "raleigh / durham / CH",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://wilmington.craigslist.org/search/remote-jobs",
+    "name": "wilmington",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://winstonsalem.craigslist.org/search/remote-jobs",
+    "name": "winston-salem",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://bismarck.craigslist.org/search/remote-jobs",
+    "name": "bismarck",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://fargo.craigslist.org/search/remote-jobs",
+    "name": "fargo / moorhead",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://grandforks.craigslist.org/search/remote-jobs",
+    "name": "grand forks",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://nd.craigslist.org/search/remote-jobs",
+    "name": "north dakota",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://akroncanton.craigslist.org/search/remote-jobs",
+    "name": "akron / canton",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://ashtabula.craigslist.org/search/remote-jobs",
+    "name": "ashtabula",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://athensohio.craigslist.org/search/remote-jobs",
+    "name": "athens",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://chillicothe.craigslist.org/search/remote-jobs",
+    "name": "chillicothe",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://cincinnati.craigslist.org/search/remote-jobs",
+    "name": "cincinnati",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://cleveland.craigslist.org/search/remote-jobs",
+    "name": "cleveland",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://columbus.craigslist.org/search/remote-jobs",
+    "name": "columbus",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://dayton.craigslist.org/search/remote-jobs",
+    "name": "dayton / springfield",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://limaohio.craigslist.org/search/remote-jobs",
+    "name": "lima / findlay",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://mansfield.craigslist.org/search/remote-jobs",
+    "name": "mansfield",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://sandusky.craigslist.org/search/remote-jobs",
+    "name": "sandusky",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://toledo.craigslist.org/search/remote-jobs",
+    "name": "toledo",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://tuscarawas.craigslist.org/search/remote-jobs",
+    "name": "tuscarawas co",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://youngstown.craigslist.org/search/remote-jobs",
+    "name": "youngstown",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://zanesville.craigslist.org/search/remote-jobs",
+    "name": "zanesville / cambridge",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone, Mountain Time Zone",
+    "url": "https://lawton.craigslist.org/search/remote-jobs",
+    "name": "lawton",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone, Mountain Time Zone",
+    "url": "https://enid.craigslist.org/search/remote-jobs",
+    "name": "northwest OK",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone, Mountain Time Zone",
+    "url": "https://oklahomacity.craigslist.org/search/remote-jobs",
+    "name": "oklahoma city",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone, Mountain Time Zone",
+    "url": "https://stillwater.craigslist.org/search/remote-jobs",
+    "name": "stillwater",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone, Mountain Time Zone",
+    "url": "https://tulsa.craigslist.org/search/remote-jobs",
+    "name": "tulsa",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://bend.craigslist.org/search/remote-jobs",
+    "name": "bend",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://corvallis.craigslist.org/search/remote-jobs",
+    "name": "corvallis/albany",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://eastoregon.craigslist.org/search/remote-jobs",
+    "name": "east oregon",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://eugene.craigslist.org/search/remote-jobs",
+    "name": "eugene",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://klamath.craigslist.org/search/remote-jobs",
+    "name": "klamath falls",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://medford.craigslist.org/search/remote-jobs",
+    "name": "medford-ashland",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://oregoncoast.craigslist.org/search/remote-jobs",
+    "name": "oregon coast",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://portland.craigslist.org/search/remote-jobs",
+    "name": "portland",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://roseburg.craigslist.org/search/remote-jobs",
+    "name": "roseburg",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://salem.craigslist.org/search/remote-jobs",
+    "name": "salem",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://altoona.craigslist.org/search/remote-jobs",
+    "name": "altoona-johnstown",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://chambersburg.craigslist.org/search/remote-jobs",
+    "name": "cumberland valley",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://erie.craigslist.org/search/remote-jobs",
+    "name": "erie",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://harrisburg.craigslist.org/search/remote-jobs",
+    "name": "harrisburg",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://lancaster.craigslist.org/search/remote-jobs",
+    "name": "lancaster",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://allentown.craigslist.org/search/remote-jobs",
+    "name": "lehigh valley",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://meadville.craigslist.org/search/remote-jobs",
+    "name": "meadville",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://philadelphia.craigslist.org/search/remote-jobs",
+    "name": "philadelphia",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://pittsburgh.craigslist.org/search/remote-jobs",
+    "name": "pittsburgh",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://poconos.craigslist.org/search/remote-jobs",
+    "name": "poconos",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://reading.craigslist.org/search/remote-jobs",
+    "name": "reading",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://scranton.craigslist.org/search/remote-jobs",
+    "name": "scranton / wilkes-barre",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://pennstate.craigslist.org/search/remote-jobs",
+    "name": "state college",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://williamsport.craigslist.org/search/remote-jobs",
+    "name": "williamsport",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://york.craigslist.org/search/remote-jobs",
+    "name": "york",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://providence.craigslist.org/search/remote-jobs",
+    "name": "rhode island",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://charleston.craigslist.org/search/remote-jobs",
+    "name": "charleston",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://columbia.craigslist.org/search/remote-jobs",
+    "name": "columbia",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://florencesc.craigslist.org/search/remote-jobs",
+    "name": "florence",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://greenville.craigslist.org/search/remote-jobs",
+    "name": "greenville / upstate",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://hiltonhead.craigslist.org/search/remote-jobs",
+    "name": "hilton head",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://myrtlebeach.craigslist.org/search/remote-jobs",
+    "name": "myrtle beach",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://nesd.craigslist.org/search/remote-jobs",
+    "name": "northeast SD",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://csd.craigslist.org/search/remote-jobs",
+    "name": "pierre / central SD",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://rapidcity.craigslist.org/search/remote-jobs",
+    "name": "rapid city / west SD",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://siouxfalls.craigslist.org/search/remote-jobs",
+    "name": "sioux falls / SE SD",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone, Central Time Zone",
+    "url": "https://sd.craigslist.org/search/remote-jobs",
+    "name": "south dakota",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://chattanooga.craigslist.org/search/remote-jobs",
+    "name": "chattanooga",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://clarksville.craigslist.org/search/remote-jobs",
+    "name": "clarksville",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://cookeville.craigslist.org/search/remote-jobs",
+    "name": "cookeville",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://jacksontn.craigslist.org/search/remote-jobs",
+    "name": "jackson",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://knoxville.craigslist.org/search/remote-jobs",
+    "name": "knoxville",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://memphis.craigslist.org/search/remote-jobs",
+    "name": "memphis",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://nashville.craigslist.org/search/remote-jobs",
+    "name": "nashville",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone, Mountain Time Zone",
+    "url": "https://tricities.craigslist.org/search/remote-jobs",
+    "name": "tri-cities",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://abilene.craigslist.org/search/remote-jobs",
+    "name": "abilene",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://amarillo.craigslist.org/search/remote-jobs",
+    "name": "amarillo",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://austin.craigslist.org/search/remote-jobs",
+    "name": "austin",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://beaumont.craigslist.org/search/remote-jobs",
+    "name": "beaumont / port arthur",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://brownsville.craigslist.org/search/remote-jobs",
+    "name": "brownsville",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://collegestation.craigslist.org/search/remote-jobs",
+    "name": "college station",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://corpuschristi.craigslist.org/search/remote-jobs",
+    "name": "corpus christi",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://dallas.craigslist.org/search/remote-jobs",
+    "name": "dallas / fort worth",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://nacogdoches.craigslist.org/search/remote-jobs",
+    "name": "deep east texas",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://delrio.craigslist.org/search/remote-jobs",
+    "name": "del rio / eagle pass",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://elpaso.craigslist.org/search/remote-jobs",
+    "name": "el paso",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://galveston.craigslist.org/search/remote-jobs",
+    "name": "galveston",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://houston.craigslist.org/search/remote-jobs",
+    "name": "houston",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://killeen.craigslist.org/search/remote-jobs",
+    "name": "killeen / temple / ft hood",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://laredo.craigslist.org/search/remote-jobs",
+    "name": "laredo",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://lubbock.craigslist.org/search/remote-jobs",
+    "name": "lubbock",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://mcallen.craigslist.org/search/remote-jobs",
+    "name": "mcallen / edinburg",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://odessa.craigslist.org/search/remote-jobs",
+    "name": "odessa / midland",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://sanangelo.craigslist.org/search/remote-jobs",
+    "name": "san angelo",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://sanantonio.craigslist.org/search/remote-jobs",
+    "name": "san antonio",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://sanmarcos.craigslist.org/search/remote-jobs",
+    "name": "san marcos",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://bigbend.craigslist.org/search/remote-jobs",
+    "name": "southwest TX",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://texoma.craigslist.org/search/remote-jobs",
+    "name": "texoma",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://easttexas.craigslist.org/search/remote-jobs",
+    "name": "tyler / east TX",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://victoriatx.craigslist.org/search/remote-jobs",
+    "name": "victoria",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://waco.craigslist.org/search/remote-jobs",
+    "name": "waco",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://wichitafalls.craigslist.org/search/remote-jobs",
+    "name": "wichita falls",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://logan.craigslist.org/search/remote-jobs",
+    "name": "logan",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://ogden.craigslist.org/search/remote-jobs",
+    "name": "ogden-clearfield",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://provo.craigslist.org/search/remote-jobs",
+    "name": "provo / orem",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://saltlakecity.craigslist.org/search/remote-jobs",
+    "name": "salt lake city",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://stgeorge.craigslist.org/search/remote-jobs",
+    "name": "st george",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://vermont.craigslist.org/search/remote-jobs",
+    "name": "vermont",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://charlottesville.craigslist.org/search/remote-jobs",
+    "name": "charlottesville",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://danville.craigslist.org/search/remote-jobs",
+    "name": "danville",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://fredericksburg.craigslist.org/search/remote-jobs",
+    "name": "fredericksburg",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://norfolk.craigslist.org/search/remote-jobs",
+    "name": "hampton roads",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://harrisonburg.craigslist.org/search/remote-jobs",
+    "name": "harrisonburg",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://lynchburg.craigslist.org/search/remote-jobs",
+    "name": "lynchburg",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://blacksburg.craigslist.org/search/remote-jobs",
+    "name": "new river valley",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://richmond.craigslist.org/search/remote-jobs",
+    "name": "richmond",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://roanoke.craigslist.org/search/remote-jobs",
+    "name": "roanoke",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://swva.craigslist.org/search/remote-jobs",
+    "name": "southwest VA",
+    "checked": false
+  },
+  {
+    "time_zone": "Pacific Time Zone",
+    "url": "https://winchester.craigslist.org/search/remote-jobs",
+    "name": "winchester",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://bellingham.craigslist.org/search/remote-jobs",
+    "name": "bellingham",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://kpr.craigslist.org/search/remote-jobs",
+    "name": "kennewick-pasco-richland",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://moseslake.craigslist.org/search/remote-jobs",
+    "name": "moses lake",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://olympic.craigslist.org/search/remote-jobs",
+    "name": "olympic peninsula",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://pullman.craigslist.org/search/remote-jobs",
+    "name": "pullman / moscow",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://seattle.craigslist.org/search/remote-jobs",
+    "name": "seattle-tacoma",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://skagit.craigslist.org/search/remote-jobs",
+    "name": "skagit / island / SJI",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://spokane.craigslist.org/search/remote-jobs",
+    "name": "spokane / coeur d alene",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://wenatchee.craigslist.org/search/remote-jobs",
+    "name": "wenatchee",
+    "checked": false
+  },
+  {
+    "time_zone": "Eastern Time Zone",
+    "url": "https://yakima.craigslist.org/search/remote-jobs",
+    "name": "yakima",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://charlestonwv.craigslist.org/search/remote-jobs",
+    "name": "charleston",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://martinsburg.craigslist.org/search/remote-jobs",
+    "name": "eastern panhandle",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://huntington.craigslist.org/search/remote-jobs",
+    "name": "huntington-ashland",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://morgantown.craigslist.org/search/remote-jobs",
+    "name": "morgantown",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://wheeling.craigslist.org/search/remote-jobs",
+    "name": "northern panhandle",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://parkersburg.craigslist.org/search/remote-jobs",
+    "name": "parkersburg-marietta",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://swv.craigslist.org/search/remote-jobs",
+    "name": "southern WV",
+    "checked": false
+  },
+  {
+    "time_zone": "Central Time Zone",
+    "url": "https://wv.craigslist.org/search/remote-jobs",
+    "name": "west virginia (old)",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://appleton.craigslist.org/search/remote-jobs",
+    "name": "appleton-oshkosh-FDL",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://eauclaire.craigslist.org/search/remote-jobs",
+    "name": "eau claire",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://greenbay.craigslist.org/search/remote-jobs",
+    "name": "green bay",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://janesville.craigslist.org/search/remote-jobs",
+    "name": "janesville",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://racine.craigslist.org/search/remote-jobs",
+    "name": "kenosha-racine",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://lacrosse.craigslist.org/search/remote-jobs",
+    "name": "la crosse",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://madison.craigslist.org/search/remote-jobs",
+    "name": "madison",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://milwaukee.craigslist.org/search/remote-jobs",
+    "name": "milwaukee",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://northernwi.craigslist.org/search/remote-jobs",
+    "name": "northern WI",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://sheboygan.craigslist.org/search/remote-jobs",
+    "name": "sheboygan",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://wausau.craigslist.org/search/remote-jobs",
+    "name": "wausau",
+    "checked": false
+  },
+  {
+    "time_zone": "Mountain Time Zone",
+    "url": "https://wyoming.craigslist.org/search/remote-jobs",
+    "name": "wyoming",
+    "checked": false
+  },
+  {
+    "time_zone": "territories",
+    "url": "https://micronesia.craigslist.org/search/remote-jobs",
+    "name": "guam-micronesia",
+    "checked": false
+  },
+  {
+    "time_zone": "territories",
+    "url": "https://puertorico.craigslist.org/search/remote-jobs",
+    "name": "puerto rico",
+    "checked": false
+  },
+  {
+    "time_zone": "territories",
+    "url": "https://virgin.craigslist.org/search/remote-jobs",
+    "name": "U.S. virgin islands",
+    "checked": false
+  }
+]

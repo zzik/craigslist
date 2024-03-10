@@ -1,0 +1,2045 @@
+[
+    {
+        "state_name":"alabama",
+        
+        "cities": [
+            {
+                "link": "https://auburn.craigslist.org/",
+                "text": "auburn"
+            },
+            {
+                "link": "https://bham.craigslist.org/",
+                "text": "birmingham"
+            },
+            {
+                "link": "https://dothan.craigslist.org/",
+                "text": "dothan"
+            },
+            {
+                "link": "https://shoals.craigslist.org/",
+                "text": "florence / muscle shoals"
+            },
+            {
+                "link": "https://gadsden.craigslist.org/",
+                "text": "gadsden-anniston"
+            },
+            {
+                "link": "https://huntsville.craigslist.org/",
+                "text": "huntsville / decatur"
+            },
+            {
+                "link": "https://mobile.craigslist.org/",
+                "text": "mobile"
+            },
+            {
+                "link": "https://montgomery.craigslist.org/",
+                "text": "montgomery"
+            },
+            {
+                "link": "https://tuscaloosa.craigslist.org/",
+                "text": "tuscaloosa"
+            }
+        ],
+        "time_zone": "Central Time Zone"
+    },
+    {
+        "state_name":"alaska",
+        
+        "cities": [
+            {
+                "link": "https://anchorage.craigslist.org/",
+                "text": "anchorage / mat-su"
+            },
+            {
+                "link": "https://fairbanks.craigslist.org/",
+                "text": "fairbanks"
+            },
+            {
+                "link": "https://kenai.craigslist.org/",
+                "text": "kenai peninsula"
+            },
+            {
+                "link": "https://juneau.craigslist.org/",
+                "text": "southeast alaska"
+            }
+        ],
+        "time_zone": "Alaska Time Zone, Hawaii-Aleutian Time Zone"
+    },
+    {
+        "state_name":"arizona",
+        
+        "cities": [
+            {
+                "link": "https://flagstaff.craigslist.org/",
+                "text": "flagstaff / sedona"
+            },
+            {
+                "link": "https://mohave.craigslist.org/",
+                "text": "mohave county"
+            },
+            {
+                "link": "https://phoenix.craigslist.org/",
+                "text": "phoenix"
+            },
+            {
+                "link": "https://prescott.craigslist.org/",
+                "text": "prescott"
+            },
+            {
+                "link": "https://showlow.craigslist.org/",
+                "text": "show low"
+            },
+            {
+                "link": "https://sierravista.craigslist.org/",
+                "text": "sierra vista"
+            },
+            {
+                "link": "https://tucson.craigslist.org/",
+                "text": "tucson"
+            },
+            {
+                "link": "https://yuma.craigslist.org/",
+                "text": "yuma"
+            }
+        ],
+        "time_zone": "Mountain Time Zone"
+    },
+    {
+        "state_name":"arkansas",
+        
+        "cities": [
+            {
+                "link": "https://fayar.craigslist.org/",
+                "text": "fayetteville"
+            },
+            {
+                "link": "https://fortsmith.craigslist.org/",
+                "text": "fort smith"
+            },
+            {
+                "link": "https://jonesboro.craigslist.org/",
+                "text": "jonesboro"
+            },
+            {
+                "link": "https://littlerock.craigslist.org/",
+                "text": "little rock"
+            },
+            {
+                "link": "https://texarkana.craigslist.org/",
+                "text": "texarkana"
+            }
+        ],
+        "time_zone": "Central Time Zone"
+    },
+    {
+        "state_name":"california",
+        
+        "cities": [
+            {
+                "link": "https://bakersfield.craigslist.org/",
+                "text": "bakersfield"
+            },
+            {
+                "link": "https://chico.craigslist.org/",
+                "text": "chico"
+            },
+            {
+                "link": "https://fresno.craigslist.org/",
+                "text": "fresno / madera"
+            },
+            {
+                "link": "https://goldcountry.craigslist.org/",
+                "text": "gold country"
+            },
+            {
+                "link": "https://hanford.craigslist.org/",
+                "text": "hanford-corcoran"
+            },
+            {
+                "link": "https://humboldt.craigslist.org/",
+                "text": "humboldt county"
+            },
+            {
+                "link": "https://imperial.craigslist.org/",
+                "text": "imperial county"
+            },
+            {
+                "link": "https://inlandempire.craigslist.org/",
+                "text": "inland empire"
+            },
+            {
+                "link": "https://losangeles.craigslist.org/",
+                "text": "los angeles"
+            },
+            {
+                "link": "https://mendocino.craigslist.org/",
+                "text": "mendocino county"
+            },
+            {
+                "link": "https://merced.craigslist.org/",
+                "text": "merced"
+            },
+            {
+                "link": "https://modesto.craigslist.org/",
+                "text": "modesto"
+            },
+            {
+                "link": "https://monterey.craigslist.org/",
+                "text": "monterey bay"
+            },
+            {
+                "link": "https://orangecounty.craigslist.org/",
+                "text": "orange county"
+            },
+            {
+                "link": "https://palmsprings.craigslist.org/",
+                "text": "palm springs"
+            },
+            {
+                "link": "https://redding.craigslist.org/",
+                "text": "redding"
+            },
+            {
+                "link": "https://sacramento.craigslist.org/",
+                "text": "sacramento"
+            },
+            {
+                "link": "https://sandiego.craigslist.org/",
+                "text": "san diego"
+            },
+            {
+                "link": "https://sfbay.craigslist.org/",
+                "text": "san francisco bay area"
+            },
+            {
+                "link": "https://slo.craigslist.org/",
+                "text": "san luis obispo"
+            },
+            {
+                "link": "https://santabarbara.craigslist.org/",
+                "text": "santa barbara"
+            },
+            {
+                "link": "https://santamaria.craigslist.org/",
+                "text": "santa maria"
+            },
+            {
+                "link": "https://siskiyou.craigslist.org/",
+                "text": "siskiyou county"
+            },
+            {
+                "link": "https://stockton.craigslist.org/",
+                "text": "stockton"
+            },
+            {
+                "link": "https://susanville.craigslist.org/",
+                "text": "susanville"
+            },
+            {
+                "link": "https://ventura.craigslist.org/",
+                "text": "ventura county"
+            },
+            {
+                "link": "https://visalia.craigslist.org/",
+                "text": "visalia-tulare"
+            },
+            {
+                "link": "https://yubasutter.craigslist.org/",
+                "text": "yuba-sutter"
+            }
+        ],
+        "time_zone": "Pacific Time Zone"
+    },
+    {
+        "state_name":"colorado",
+        
+        "cities": [
+            {
+                "link": "https://boulder.craigslist.org/",
+                "text": "boulder"
+            },
+            {
+                "link": "https://cosprings.craigslist.org/",
+                "text": "colorado springs"
+            },
+            {
+                "link": "https://denver.craigslist.org/",
+                "text": "denver"
+            },
+            {
+                "link": "https://eastco.craigslist.org/",
+                "text": "eastern CO"
+            },
+            {
+                "link": "https://fortcollins.craigslist.org/",
+                "text": "fort collins / north CO"
+            },
+            {
+                "link": "https://rockies.craigslist.org/",
+                "text": "high rockies"
+            },
+            {
+                "link": "https://pueblo.craigslist.org/",
+                "text": "pueblo"
+            },
+            {
+                "link": "https://westslope.craigslist.org/",
+                "text": "western slope"
+            }
+        ],
+        "time_zone": "Mountain Time Zone"
+    },
+    {
+        "state_name":"connecticut",
+        
+        "cities": [
+            {
+                "link": "https://newlondon.craigslist.org/",
+                "text": "eastern CT"
+            },
+            {
+                "link": "https://hartford.craigslist.org/",
+                "text": "hartford"
+            },
+            {
+                "link": "https://newhaven.craigslist.org/",
+                "text": "new haven"
+            },
+            {
+                "link": "https://nwct.craigslist.org/",
+                "text": "northwest CT"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"delaware",
+        
+        "cities": [
+            {
+                "link": "https://delaware.craigslist.org/",
+                "text": "delaware"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"district-of-columbia",
+        
+        "cities": [
+            {
+                "link": "https://washingtondc.craigslist.org/",
+                "text": "washington"
+            }
+        ],
+        "time_zone": "Eastern Time Zone, Central Time Zone"
+    },
+    {
+        "state_name":"florida",
+        
+        "cities": [
+            {
+                "link": "https://miami.craigslist.org/",
+                "text": "broward county"
+            },
+            {
+                "link": "https://daytona.craigslist.org/",
+                "text": "daytona beach"
+            },
+            {
+                "link": "https://keys.craigslist.org/",
+                "text": "florida keys"
+            },
+            {
+                "link": "https://miami.craigslist.org/",
+                "text": "fort lauderdale"
+            },
+            {
+                "link": "https://fortmyers.craigslist.org/",
+                "text": "ft myers / SW florida"
+            },
+            {
+                "link": "https://gainesville.craigslist.org/",
+                "text": "gainesville"
+            },
+            {
+                "link": "https://cfl.craigslist.org/",
+                "text": "heartland florida"
+            },
+            {
+                "link": "https://jacksonville.craigslist.org/",
+                "text": "jacksonville"
+            },
+            {
+                "link": "https://lakeland.craigslist.org/",
+                "text": "lakeland"
+            },
+            {
+                "link": "https://miami.craigslist.org/",
+                "text": "miami / dade"
+            },
+            {
+                "link": "https://lakecity.craigslist.org/",
+                "text": "north central FL"
+            },
+            {
+                "link": "https://ocala.craigslist.org/",
+                "text": "ocala"
+            },
+            {
+                "link": "https://okaloosa.craigslist.org/",
+                "text": "okaloosa / walton"
+            },
+            {
+                "link": "https://orlando.craigslist.org/",
+                "text": "orlando"
+            },
+            {
+                "link": "https://panamacity.craigslist.org/",
+                "text": "panama city"
+            },
+            {
+                "link": "https://pensacola.craigslist.org/",
+                "text": "pensacola"
+            },
+            {
+                "link": "https://sarasota.craigslist.org/",
+                "text": "sarasota-bradenton"
+            },
+            {
+                "link": "https://miami.craigslist.org/",
+                "text": "south florida"
+            },
+            {
+                "link": "https://spacecoast.craigslist.org/",
+                "text": "space coast"
+            },
+            {
+                "link": "https://staugustine.craigslist.org/",
+                "text": "st augustine"
+            },
+            {
+                "link": "https://tallahassee.craigslist.org/",
+                "text": "tallahassee"
+            },
+            {
+                "link": "https://tampa.craigslist.org/",
+                "text": "tampa bay area"
+            },
+            {
+                "link": "https://treasure.craigslist.org/",
+                "text": "treasure coast"
+            },
+            {
+                "link": "https://miami.craigslist.org/",
+                "text": "palm beach county"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"georgia",
+        
+        "cities": [
+            {
+                "link": "https://albanyga.craigslist.org/",
+                "text": "albany"
+            },
+            {
+                "link": "https://athensga.craigslist.org/",
+                "text": "athens"
+            },
+            {
+                "link": "https://atlanta.craigslist.org/",
+                "text": "atlanta"
+            },
+            {
+                "link": "https://augusta.craigslist.org/",
+                "text": "augusta"
+            },
+            {
+                "link": "https://brunswick.craigslist.org/",
+                "text": "brunswick"
+            },
+            {
+                "link": "https://columbusga.craigslist.org/",
+                "text": "columbus"
+            },
+            {
+                "link": "https://macon.craigslist.org/",
+                "text": "macon / warner robins"
+            },
+            {
+                "link": "https://nwga.craigslist.org/",
+                "text": "northwest GA"
+            },
+            {
+                "link": "https://savannah.craigslist.org/",
+                "text": "savannah / hinesville"
+            },
+            {
+                "link": "https://statesboro.craigslist.org/",
+                "text": "statesboro"
+            },
+            {
+                "link": "https://valdosta.craigslist.org/",
+                "text": "valdosta"
+            }
+        ],
+        "time_zone": "Hawaii-Aleutian Time Zone"
+    },
+    {
+        "state_name":"hawaii",
+        
+        "cities": [
+            {
+                "link": "https://honolulu.craigslist.org/",
+                "text": "hawaii"
+            }
+        ],
+        "time_zone": "Mountain Time Zone, Pacific Time Zone"
+    },
+    {
+        "state_name":"idaho",
+        
+        "cities": [
+            {
+                "link": "https://boise.craigslist.org/",
+                "text": "boise"
+            },
+            {
+                "link": "https://eastidaho.craigslist.org/",
+                "text": "east idaho"
+            },
+            {
+                "link": "https://lewiston.craigslist.org/",
+                "text": "lewiston / clarkston"
+            },
+            {
+                "link": "https://twinfalls.craigslist.org/",
+                "text": "twin falls"
+            }
+        ],
+        "time_zone": "Central Time Zone"
+    },
+    {
+        "state_name":"illinois",
+        
+        "cities": [
+            {
+                "link": "https://bn.craigslist.org/",
+                "text": "bloomington-normal"
+            },
+            {
+                "link": "https://chambana.craigslist.org/",
+                "text": "champaign urbana"
+            },
+            {
+                "link": "https://chicago.craigslist.org/",
+                "text": "chicago"
+            },
+            {
+                "link": "https://decatur.craigslist.org/",
+                "text": "decatur"
+            },
+            {
+                "link": "https://lasalle.craigslist.org/",
+                "text": "la salle co"
+            },
+            {
+                "link": "https://mattoon.craigslist.org/",
+                "text": "mattoon-charleston"
+            },
+            {
+                "link": "https://peoria.craigslist.org/",
+                "text": "peoria"
+            },
+            {
+                "link": "https://rockford.craigslist.org/",
+                "text": "rockford"
+            },
+            {
+                "link": "https://carbondale.craigslist.org/",
+                "text": "southern illinois"
+            },
+            {
+                "link": "https://springfieldil.craigslist.org/",
+                "text": "springfield"
+            },
+            {
+                "link": "https://quincy.craigslist.org/",
+                "text": "western IL"
+            }
+        ],
+        "time_zone": "Eastern Time Zone, Central Time Zone"
+    },
+    {
+        "state_name":"indiana",
+        
+        "cities": [
+            {
+                "link": "https://bloomington.craigslist.org/",
+                "text": "bloomington"
+            },
+            {
+                "link": "https://evansville.craigslist.org/",
+                "text": "evansville"
+            },
+            {
+                "link": "https://fortwayne.craigslist.org/",
+                "text": "fort wayne"
+            },
+            {
+                "link": "https://indianapolis.craigslist.org/",
+                "text": "indianapolis"
+            },
+            {
+                "link": "https://kokomo.craigslist.org/",
+                "text": "kokomo"
+            },
+            {
+                "link": "https://tippecanoe.craigslist.org/",
+                "text": "lafayette / west lafayette"
+            },
+            {
+                "link": "https://muncie.craigslist.org/",
+                "text": "muncie / anderson"
+            },
+            {
+                "link": "https://richmondin.craigslist.org/",
+                "text": "richmond"
+            },
+            {
+                "link": "https://southbend.craigslist.org/",
+                "text": "south bend / michiana"
+            },
+            {
+                "link": "https://terrehaute.craigslist.org/",
+                "text": "terre haute"
+            }
+        ],
+        "time_zone": "Central Time Zone"
+    },
+    {
+        "state_name":"iowa",
+        
+        "cities": [
+            {
+                "link": "https://ames.craigslist.org/",
+                "text": "ames"
+            },
+            {
+                "link": "https://cedarrapids.craigslist.org/",
+                "text": "cedar rapids"
+            },
+            {
+                "link": "https://desmoines.craigslist.org/",
+                "text": "des moines"
+            },
+            {
+                "link": "https://dubuque.craigslist.org/",
+                "text": "dubuque"
+            },
+            {
+                "link": "https://fortdodge.craigslist.org/",
+                "text": "fort dodge"
+            },
+            {
+                "link": "https://iowacity.craigslist.org/",
+                "text": "iowa city"
+            },
+            {
+                "link": "https://masoncity.craigslist.org/",
+                "text": "mason city"
+            },
+            {
+                "link": "https://quadcities.craigslist.org/",
+                "text": "quad cities"
+            },
+            {
+                "link": "https://siouxcity.craigslist.org/",
+                "text": "sioux city"
+            },
+            {
+                "link": "https://ottumwa.craigslist.org/",
+                "text": "southeast IA"
+            },
+            {
+                "link": "https://waterloo.craigslist.org/",
+                "text": "waterloo / cedar falls"
+            }
+        ],
+        "time_zone": "Central Time Zone, Mountain Time Zone"
+    },
+    {
+        "state_name":"kansas",
+        
+        "cities": [
+            {
+                "link": "https://lawrence.craigslist.org/",
+                "text": "lawrence"
+            },
+            {
+                "link": "https://ksu.craigslist.org/",
+                "text": "manhattan"
+            },
+            {
+                "link": "https://nwks.craigslist.org/",
+                "text": "northwest KS"
+            },
+            {
+                "link": "https://salina.craigslist.org/",
+                "text": "salina"
+            },
+            {
+                "link": "https://seks.craigslist.org/",
+                "text": "southeast KS"
+            },
+            {
+                "link": "https://swks.craigslist.org/",
+                "text": "southwest KS"
+            },
+            {
+                "link": "https://topeka.craigslist.org/",
+                "text": "topeka"
+            },
+            {
+                "link": "https://wichita.craigslist.org/",
+                "text": "wichita"
+            }
+        ],
+        "time_zone": "Eastern Time Zone, Central Time Zone"
+    },
+    {
+        "state_name":"kentucky",
+        
+        "cities": [
+            {
+                "link": "https://bgky.craigslist.org/",
+                "text": "bowling green"
+            },
+            {
+                "link": "https://eastky.craigslist.org/",
+                "text": "eastern kentucky"
+            },
+            {
+                "link": "https://lexington.craigslist.org/",
+                "text": "lexington"
+            },
+            {
+                "link": "https://louisville.craigslist.org/",
+                "text": "louisville"
+            },
+            {
+                "link": "https://owensboro.craigslist.org/",
+                "text": "owensboro"
+            },
+            {
+                "link": "https://westky.craigslist.org/",
+                "text": "western KY"
+            }
+        ],
+        "time_zone": "Central Time Zone"
+    },
+    {
+        "state_name":"louisiana",
+        
+        "cities": [
+            {
+                "link": "https://batonrouge.craigslist.org/",
+                "text": "baton rouge"
+            },
+            {
+                "link": "https://cenla.craigslist.org/",
+                "text": "central louisiana"
+            },
+            {
+                "link": "https://houma.craigslist.org/",
+                "text": "houma"
+            },
+            {
+                "link": "https://lafayette.craigslist.org/",
+                "text": "lafayette"
+            },
+            {
+                "link": "https://lakecharles.craigslist.org/",
+                "text": "lake charles"
+            },
+            {
+                "link": "https://monroe.craigslist.org/",
+                "text": "monroe"
+            },
+            {
+                "link": "https://neworleans.craigslist.org/",
+                "text": "new orleans"
+            },
+            {
+                "link": "https://shreveport.craigslist.org/",
+                "text": "shreveport"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"maine",
+        
+        "cities": [
+            {
+                "link": "https://maine.craigslist.org/",
+                "text": "maine"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"maryland",
+        
+        "cities": [
+            {
+                "link": "https://annapolis.craigslist.org/",
+                "text": "annapolis"
+            },
+            {
+                "link": "https://baltimore.craigslist.org/",
+                "text": "baltimore"
+            },
+            {
+                "link": "https://easternshore.craigslist.org/",
+                "text": "eastern shore"
+            },
+            {
+                "link": "https://frederick.craigslist.org/",
+                "text": "frederick"
+            },
+            {
+                "link": "https://smd.craigslist.org/",
+                "text": "southern maryland"
+            },
+            {
+                "link": "https://westmd.craigslist.org/",
+                "text": "western maryland"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"massachusetts",
+        
+        "cities": [
+            {
+                "link": "https://boston.craigslist.org/",
+                "text": "boston"
+            },
+            {
+                "link": "https://capecod.craigslist.org/",
+                "text": "cape cod / islands"
+            },
+            {
+                "link": "https://southcoast.craigslist.org/",
+                "text": "south coast"
+            },
+            {
+                "link": "https://westernmass.craigslist.org/",
+                "text": "western massachusetts"
+            },
+            {
+                "link": "https://worcester.craigslist.org/",
+                "text": "worcester / central MA"
+            }
+        ],
+        "time_zone": "Eastern Time Zone, Central Time Zone"
+    },
+    {
+        "state_name":"michigan",
+        
+        "cities": [
+            {
+                "link": "https://annarbor.craigslist.org/",
+                "text": "ann arbor"
+            },
+            {
+                "link": "https://battlecreek.craigslist.org/",
+                "text": "battle creek"
+            },
+            {
+                "link": "https://centralmich.craigslist.org/",
+                "text": "central michigan"
+            },
+            {
+                "link": "https://detroit.craigslist.org/",
+                "text": "detroit metro"
+            },
+            {
+                "link": "https://flint.craigslist.org/",
+                "text": "flint"
+            },
+            {
+                "link": "https://grandrapids.craigslist.org/",
+                "text": "grand rapids"
+            },
+            {
+                "link": "https://holland.craigslist.org/",
+                "text": "holland"
+            },
+            {
+                "link": "https://jxn.craigslist.org/",
+                "text": "jackson"
+            },
+            {
+                "link": "https://kalamazoo.craigslist.org/",
+                "text": "kalamazoo"
+            },
+            {
+                "link": "https://lansing.craigslist.org/",
+                "text": "lansing"
+            },
+            {
+                "link": "https://monroemi.craigslist.org/",
+                "text": "monroe"
+            },
+            {
+                "link": "https://muskegon.craigslist.org/",
+                "text": "muskegon"
+            },
+            {
+                "link": "https://nmi.craigslist.org/",
+                "text": "northern michigan"
+            },
+            {
+                "link": "https://porthuron.craigslist.org/",
+                "text": "port huron"
+            },
+            {
+                "link": "https://saginaw.craigslist.org/",
+                "text": "saginaw-midland-baycity"
+            },
+            {
+                "link": "https://swmi.craigslist.org/",
+                "text": "southwest michigan"
+            },
+            {
+                "link": "https://thumb.craigslist.org/",
+                "text": "the thumb"
+            },
+            {
+                "link": "https://up.craigslist.org/",
+                "text": "upper peninsula"
+            }
+        ],
+        "time_zone": "Central Time Zone"
+    },
+    {
+        "state_name":"minnesota",
+        
+        "cities": [
+            {
+                "link": "https://bemidji.craigslist.org/",
+                "text": "bemidji"
+            },
+            {
+                "link": "https://brainerd.craigslist.org/",
+                "text": "brainerd"
+            },
+            {
+                "link": "https://duluth.craigslist.org/",
+                "text": "duluth / superior"
+            },
+            {
+                "link": "https://mankato.craigslist.org/",
+                "text": "mankato"
+            },
+            {
+                "link": "https://minneapolis.craigslist.org/",
+                "text": "minneapolis / st paul"
+            },
+            {
+                "link": "https://rmn.craigslist.org/",
+                "text": "rochester"
+            },
+            {
+                "link": "https://marshall.craigslist.org/",
+                "text": "southwest MN"
+            },
+            {
+                "link": "https://stcloud.craigslist.org/",
+                "text": "st cloud"
+            }
+        ],
+        "time_zone": "Central Time Zone"
+    },
+    {
+        "state_name":"mississippi",
+        
+        "cities": [
+            {
+                "link": "https://gulfport.craigslist.org/",
+                "text": "gulfport / biloxi"
+            },
+            {
+                "link": "https://hattiesburg.craigslist.org/",
+                "text": "hattiesburg"
+            },
+            {
+                "link": "https://jackson.craigslist.org/",
+                "text": "jackson"
+            },
+            {
+                "link": "https://meridian.craigslist.org/",
+                "text": "meridian"
+            },
+            {
+                "link": "https://northmiss.craigslist.org/",
+                "text": "north mississippi"
+            },
+            {
+                "link": "https://natchez.craigslist.org/",
+                "text": "southwest MS"
+            }
+        ],
+        "time_zone": "Central Time Zone"
+    },
+    {
+        "state_name":"missouri",
+        
+        "cities": [
+            {
+                "link": "https://columbiamo.craigslist.org/",
+                "text": "columbia / jeff city"
+            },
+            {
+                "link": "https://joplin.craigslist.org/",
+                "text": "joplin"
+            },
+            {
+                "link": "https://kansascity.craigslist.org/",
+                "text": "kansas city"
+            },
+            {
+                "link": "https://kirksville.craigslist.org/",
+                "text": "kirksville"
+            },
+            {
+                "link": "https://loz.craigslist.org/",
+                "text": "lake of the ozarks"
+            },
+            {
+                "link": "https://semo.craigslist.org/",
+                "text": "southeast missouri"
+            },
+            {
+                "link": "https://springfield.craigslist.org/",
+                "text": "springfield"
+            },
+            {
+                "link": "https://stjoseph.craigslist.org/",
+                "text": "st joseph"
+            },
+            {
+                "link": "https://stlouis.craigslist.org/",
+                "text": "st louis"
+            }
+        ],
+        "time_zone": "Mountain Time Zone"
+    },
+    {
+        "state_name":"montana",
+        
+        "cities": [
+            {
+                "link": "https://billings.craigslist.org/",
+                "text": "billings"
+            },
+            {
+                "link": "https://bozeman.craigslist.org/",
+                "text": "bozeman"
+            },
+            {
+                "link": "https://butte.craigslist.org/",
+                "text": "butte"
+            },
+            {
+                "link": "https://greatfalls.craigslist.org/",
+                "text": "great falls"
+            },
+            {
+                "link": "https://helena.craigslist.org/",
+                "text": "helena"
+            },
+            {
+                "link": "https://kalispell.craigslist.org/",
+                "text": "kalispell"
+            },
+            {
+                "link": "https://missoula.craigslist.org/",
+                "text": "missoula"
+            },
+            {
+                "link": "https://montana.craigslist.org/",
+                "text": "eastern montana"
+            }
+        ],
+        "time_zone": "Central Time Zone, Mountain Time Zone"
+    },
+    {
+        "state_name":"nebraska",
+        
+        "cities": [
+            {
+                "link": "https://grandisland.craigslist.org/",
+                "text": "grand island"
+            },
+            {
+                "link": "https://lincoln.craigslist.org/",
+                "text": "lincoln"
+            },
+            {
+                "link": "https://northplatte.craigslist.org/",
+                "text": "north platte"
+            },
+            {
+                "link": "https://omaha.craigslist.org/",
+                "text": "omaha / council bluffs"
+            },
+            {
+                "link": "https://scottsbluff.craigslist.org/",
+                "text": "scottsbluff / panhandle"
+            }
+        ],
+        "time_zone": "Pacific Time Zone, Mountain Time Zone"
+    },
+    {
+        "state_name":"nevada",
+        
+        "cities": [
+            {
+                "link": "https://elko.craigslist.org/",
+                "text": "elko"
+            },
+            {
+                "link": "https://lasvegas.craigslist.org/",
+                "text": "las vegas"
+            },
+            {
+                "link": "https://reno.craigslist.org/",
+                "text": "reno / tahoe"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"new-hampshire",
+        
+        "cities": [
+            {
+                "link": "https://nh.craigslist.org/",
+                "text": "new hampshire"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"new-jersey",
+        
+        "cities": [
+            {
+                "link": "https://cnj.craigslist.org/",
+                "text": "central NJ"
+            },
+            {
+                "link": "https://jerseyshore.craigslist.org/",
+                "text": "jersey shore"
+            },
+            {
+                "link": "https://newjersey.craigslist.org/",
+                "text": "north jersey"
+            },
+            {
+                "link": "https://southjersey.craigslist.org/",
+                "text": "south jersey"
+            }
+        ],
+        "time_zone": "Mountain Time Zone"
+    },
+    {
+        "state_name":"new-mexico",
+        
+        "cities": [
+            {
+                "link": "https://albuquerque.craigslist.org/",
+                "text": "albuquerque"
+            },
+            {
+                "link": "https://clovis.craigslist.org/",
+                "text": "clovis / portales"
+            },
+            {
+                "link": "https://farmington.craigslist.org/",
+                "text": "farmington"
+            },
+            {
+                "link": "https://lascruces.craigslist.org/",
+                "text": "las cruces"
+            },
+            {
+                "link": "https://roswell.craigslist.org/",
+                "text": "roswell / carlsbad"
+            },
+            {
+                "link": "https://santafe.craigslist.org/",
+                "text": "santa fe / taos"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"new-york",
+        
+        "cities": [
+            {
+                "link": "https://albany.craigslist.org/",
+                "text": "albany"
+            },
+            {
+                "link": "https://binghamton.craigslist.org/",
+                "text": "binghamton"
+            },
+            {
+                "link": "https://buffalo.craigslist.org/",
+                "text": "buffalo"
+            },
+            {
+                "link": "https://catskills.craigslist.org/",
+                "text": "catskills"
+            },
+            {
+                "link": "https://chautauqua.craigslist.org/",
+                "text": "chautauqua"
+            },
+            {
+                "link": "https://elmira.craigslist.org/",
+                "text": "elmira-corning"
+            },
+            {
+                "link": "https://fingerlakes.craigslist.org/",
+                "text": "finger lakes"
+            },
+            {
+                "link": "https://glensfalls.craigslist.org/",
+                "text": "glens falls"
+            },
+            {
+                "link": "https://hudsonvalley.craigslist.org/",
+                "text": "hudson valley"
+            },
+            {
+                "link": "https://ithaca.craigslist.org/",
+                "text": "ithaca"
+            },
+            {
+                "link": "https://longisland.craigslist.org/",
+                "text": "long island"
+            },
+            {
+                "link": "https://newyork.craigslist.org/",
+                "text": "new york city"
+            },
+            {
+                "link": "https://oneonta.craigslist.org/",
+                "text": "oneonta"
+            },
+            {
+                "link": "https://plattsburgh.craigslist.org/",
+                "text": "plattsburgh-adirondacks"
+            },
+            {
+                "link": "https://potsdam.craigslist.org/",
+                "text": "potsdam-canton-massena"
+            },
+            {
+                "link": "https://rochester.craigslist.org/",
+                "text": "rochester"
+            },
+            {
+                "link": "https://syracuse.craigslist.org/",
+                "text": "syracuse"
+            },
+            {
+                "link": "https://twintiers.craigslist.org/",
+                "text": "twin tiers NY/PA"
+            },
+            {
+                "link": "https://utica.craigslist.org/",
+                "text": "utica-rome-oneida"
+            },
+            {
+                "link": "https://watertown.craigslist.org/",
+                "text": "watertown"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"north-carolina",
+        
+        "cities": [
+            {
+                "link": "https://asheville.craigslist.org/",
+                "text": "asheville"
+            },
+            {
+                "link": "https://boone.craigslist.org/",
+                "text": "boone"
+            },
+            {
+                "link": "https://charlotte.craigslist.org/",
+                "text": "charlotte"
+            },
+            {
+                "link": "https://eastnc.craigslist.org/",
+                "text": "eastern NC"
+            },
+            {
+                "link": "https://fayetteville.craigslist.org/",
+                "text": "fayetteville"
+            },
+            {
+                "link": "https://greensboro.craigslist.org/",
+                "text": "greensboro"
+            },
+            {
+                "link": "https://hickory.craigslist.org/",
+                "text": "hickory / lenoir"
+            },
+            {
+                "link": "https://onslow.craigslist.org/",
+                "text": "jacksonville"
+            },
+            {
+                "link": "https://outerbanks.craigslist.org/",
+                "text": "outer banks"
+            },
+            {
+                "link": "https://raleigh.craigslist.org/",
+                "text": "raleigh / durham / CH"
+            },
+            {
+                "link": "https://wilmington.craigslist.org/",
+                "text": "wilmington"
+            },
+            {
+                "link": "https://winstonsalem.craigslist.org/",
+                "text": "winston-salem"
+            }
+        ],
+        "time_zone": "Central Time Zone, Mountain Time Zone"
+    },
+    {
+        "state_name":"north-dakota",
+        
+        "cities": [
+            {
+                "link": "https://bismarck.craigslist.org/",
+                "text": "bismarck"
+            },
+            {
+                "link": "https://fargo.craigslist.org/",
+                "text": "fargo / moorhead"
+            },
+            {
+                "link": "https://grandforks.craigslist.org/",
+                "text": "grand forks"
+            },
+            {
+                "link": "https://nd.craigslist.org/",
+                "text": "north dakota"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"ohio",
+        
+        "cities": [
+            {
+                "link": "https://akroncanton.craigslist.org/",
+                "text": "akron / canton"
+            },
+            {
+                "link": "https://ashtabula.craigslist.org/",
+                "text": "ashtabula"
+            },
+            {
+                "link": "https://athensohio.craigslist.org/",
+                "text": "athens"
+            },
+            {
+                "link": "https://chillicothe.craigslist.org/",
+                "text": "chillicothe"
+            },
+            {
+                "link": "https://cincinnati.craigslist.org/",
+                "text": "cincinnati"
+            },
+            {
+                "link": "https://cleveland.craigslist.org/",
+                "text": "cleveland"
+            },
+            {
+                "link": "https://columbus.craigslist.org/",
+                "text": "columbus"
+            },
+            {
+                "link": "https://dayton.craigslist.org/",
+                "text": "dayton / springfield"
+            },
+            {
+                "link": "https://limaohio.craigslist.org/",
+                "text": "lima / findlay"
+            },
+            {
+                "link": "https://mansfield.craigslist.org/",
+                "text": "mansfield"
+            },
+            {
+                "link": "https://sandusky.craigslist.org/",
+                "text": "sandusky"
+            },
+            {
+                "link": "https://toledo.craigslist.org/",
+                "text": "toledo"
+            },
+            {
+                "link": "https://tuscarawas.craigslist.org/",
+                "text": "tuscarawas co"
+            },
+            {
+                "link": "https://youngstown.craigslist.org/",
+                "text": "youngstown"
+            },
+            {
+                "link": "https://zanesville.craigslist.org/",
+                "text": "zanesville / cambridge"
+            }
+        ],
+        "time_zone": "Central Time Zone"
+    },
+    {
+        "state_name":"oklahoma",
+        
+        "cities": [
+            {
+                "link": "https://lawton.craigslist.org/",
+                "text": "lawton"
+            },
+            {
+                "link": "https://enid.craigslist.org/",
+                "text": "northwest OK"
+            },
+            {
+                "link": "https://oklahomacity.craigslist.org/",
+                "text": "oklahoma city"
+            },
+            {
+                "link": "https://stillwater.craigslist.org/",
+                "text": "stillwater"
+            },
+            {
+                "link": "https://tulsa.craigslist.org/",
+                "text": "tulsa"
+            }
+        ],
+        "time_zone": "Pacific Time Zone, Mountain Time Zone"
+    },
+    {
+        "state_name":"oregon",
+        
+        "cities": [
+            {
+                "link": "https://bend.craigslist.org/",
+                "text": "bend"
+            },
+            {
+                "link": "https://corvallis.craigslist.org/",
+                "text": "corvallis/albany"
+            },
+            {
+                "link": "https://eastoregon.craigslist.org/",
+                "text": "east oregon"
+            },
+            {
+                "link": "https://eugene.craigslist.org/",
+                "text": "eugene"
+            },
+            {
+                "link": "https://klamath.craigslist.org/",
+                "text": "klamath falls"
+            },
+            {
+                "link": "https://medford.craigslist.org/",
+                "text": "medford-ashland"
+            },
+            {
+                "link": "https://oregoncoast.craigslist.org/",
+                "text": "oregon coast"
+            },
+            {
+                "link": "https://portland.craigslist.org/",
+                "text": "portland"
+            },
+            {
+                "link": "https://roseburg.craigslist.org/",
+                "text": "roseburg"
+            },
+            {
+                "link": "https://salem.craigslist.org/",
+                "text": "salem"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"pennsylvania",
+        
+        "cities": [
+            {
+                "link": "https://altoona.craigslist.org/",
+                "text": "altoona-johnstown"
+            },
+            {
+                "link": "https://chambersburg.craigslist.org/",
+                "text": "cumberland valley"
+            },
+            {
+                "link": "https://erie.craigslist.org/",
+                "text": "erie"
+            },
+            {
+                "link": "https://harrisburg.craigslist.org/",
+                "text": "harrisburg"
+            },
+            {
+                "link": "https://lancaster.craigslist.org/",
+                "text": "lancaster"
+            },
+            {
+                "link": "https://allentown.craigslist.org/",
+                "text": "lehigh valley"
+            },
+            {
+                "link": "https://meadville.craigslist.org/",
+                "text": "meadville"
+            },
+            {
+                "link": "https://philadelphia.craigslist.org/",
+                "text": "philadelphia"
+            },
+            {
+                "link": "https://pittsburgh.craigslist.org/",
+                "text": "pittsburgh"
+            },
+            {
+                "link": "https://poconos.craigslist.org/",
+                "text": "poconos"
+            },
+            {
+                "link": "https://reading.craigslist.org/",
+                "text": "reading"
+            },
+            {
+                "link": "https://scranton.craigslist.org/",
+                "text": "scranton / wilkes-barre"
+            },
+            {
+                "link": "https://pennstate.craigslist.org/",
+                "text": "state college"
+            },
+            {
+                "link": "https://williamsport.craigslist.org/",
+                "text": "williamsport"
+            },
+            {
+                "link": "https://york.craigslist.org/",
+                "text": "york"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"rhode-island",
+        
+        "cities": [
+            {
+                "link": "https://providence.craigslist.org/",
+                "text": "rhode island"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"south-carolina",
+        
+        "cities": [
+            {
+                "link": "https://charleston.craigslist.org/",
+                "text": "charleston"
+            },
+            {
+                "link": "https://columbia.craigslist.org/",
+                "text": "columbia"
+            },
+            {
+                "link": "https://florencesc.craigslist.org/",
+                "text": "florence"
+            },
+            {
+                "link": "https://greenville.craigslist.org/",
+                "text": "greenville / upstate"
+            },
+            {
+                "link": "https://hiltonhead.craigslist.org/",
+                "text": "hilton head"
+            },
+            {
+                "link": "https://myrtlebeach.craigslist.org/",
+                "text": "myrtle beach"
+            }
+        ],
+        "time_zone": "Central Time Zone, Mountain Time Zone"
+    },
+    {
+        "state_name":"south-dakota",
+        
+        "cities": [
+            {
+                "link": "https://nesd.craigslist.org/",
+                "text": "northeast SD"
+            },
+            {
+                "link": "https://csd.craigslist.org/",
+                "text": "pierre / central SD"
+            },
+            {
+                "link": "https://rapidcity.craigslist.org/",
+                "text": "rapid city / west SD"
+            },
+            {
+                "link": "https://siouxfalls.craigslist.org/",
+                "text": "sioux falls / SE SD"
+            },
+            {
+                "link": "https://sd.craigslist.org/",
+                "text": "south dakota"
+            }
+        ],
+        "time_zone": "Eastern Time Zone, Central Time Zone"
+    },
+    {
+        "state_name":"tennessee",
+        
+        "cities": [
+            {
+                "link": "https://chattanooga.craigslist.org/",
+                "text": "chattanooga"
+            },
+            {
+                "link": "https://clarksville.craigslist.org/",
+                "text": "clarksville"
+            },
+            {
+                "link": "https://cookeville.craigslist.org/",
+                "text": "cookeville"
+            },
+            {
+                "link": "https://jacksontn.craigslist.org/",
+                "text": "jackson"
+            },
+            {
+                "link": "https://knoxville.craigslist.org/",
+                "text": "knoxville"
+            },
+            {
+                "link": "https://memphis.craigslist.org/",
+                "text": "memphis"
+            },
+            {
+                "link": "https://nashville.craigslist.org/",
+                "text": "nashville"
+            },
+            {
+                "link": "https://tricities.craigslist.org/",
+                "text": "tri-cities"
+            }
+        ],
+        "time_zone": "Central Time Zone, Mountain Time Zone"
+    },
+    {
+        "state_name":"texas",
+        
+        "cities": [
+            {
+                "link": "https://abilene.craigslist.org/",
+                "text": "abilene"
+            },
+            {
+                "link": "https://amarillo.craigslist.org/",
+                "text": "amarillo"
+            },
+            {
+                "link": "https://austin.craigslist.org/",
+                "text": "austin"
+            },
+            {
+                "link": "https://beaumont.craigslist.org/",
+                "text": "beaumont / port arthur"
+            },
+            {
+                "link": "https://brownsville.craigslist.org/",
+                "text": "brownsville"
+            },
+            {
+                "link": "https://collegestation.craigslist.org/",
+                "text": "college station"
+            },
+            {
+                "link": "https://corpuschristi.craigslist.org/",
+                "text": "corpus christi"
+            },
+            {
+                "link": "https://dallas.craigslist.org/",
+                "text": "dallas / fort worth"
+            },
+            {
+                "link": "https://nacogdoches.craigslist.org/",
+                "text": "deep east texas"
+            },
+            {
+                "link": "https://delrio.craigslist.org/",
+                "text": "del rio / eagle pass"
+            },
+            {
+                "link": "https://elpaso.craigslist.org/",
+                "text": "el paso"
+            },
+            {
+                "link": "https://galveston.craigslist.org/",
+                "text": "galveston"
+            },
+            {
+                "link": "https://houston.craigslist.org/",
+                "text": "houston"
+            },
+            {
+                "link": "https://killeen.craigslist.org/",
+                "text": "killeen / temple / ft hood"
+            },
+            {
+                "link": "https://laredo.craigslist.org/",
+                "text": "laredo"
+            },
+            {
+                "link": "https://lubbock.craigslist.org/",
+                "text": "lubbock"
+            },
+            {
+                "link": "https://mcallen.craigslist.org/",
+                "text": "mcallen / edinburg"
+            },
+            {
+                "link": "https://odessa.craigslist.org/",
+                "text": "odessa / midland"
+            },
+            {
+                "link": "https://sanangelo.craigslist.org/",
+                "text": "san angelo"
+            },
+            {
+                "link": "https://sanantonio.craigslist.org/",
+                "text": "san antonio"
+            },
+            {
+                "link": "https://sanmarcos.craigslist.org/",
+                "text": "san marcos"
+            },
+            {
+                "link": "https://bigbend.craigslist.org/",
+                "text": "southwest TX"
+            },
+            {
+                "link": "https://texoma.craigslist.org/",
+                "text": "texoma"
+            },
+            {
+                "link": "https://easttexas.craigslist.org/",
+                "text": "tyler / east TX"
+            },
+            {
+                "link": "https://victoriatx.craigslist.org/",
+                "text": "victoria"
+            },
+            {
+                "link": "https://waco.craigslist.org/",
+                "text": "waco"
+            },
+            {
+                "link": "https://wichitafalls.craigslist.org/",
+                "text": "wichita falls"
+            }
+        ],
+        "time_zone": "Mountain Time Zone"
+    },
+    {
+        "state_name":"utah",
+        
+        "cities": [
+            {
+                "link": "https://logan.craigslist.org/",
+                "text": "logan"
+            },
+            {
+                "link": "https://ogden.craigslist.org/",
+                "text": "ogden-clearfield"
+            },
+            {
+                "link": "https://provo.craigslist.org/",
+                "text": "provo / orem"
+            },
+            {
+                "link": "https://saltlakecity.craigslist.org/",
+                "text": "salt lake city"
+            },
+            {
+                "link": "https://stgeorge.craigslist.org/",
+                "text": "st george"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"vermont",
+        
+        "cities": [
+            {
+                "link": "https://vermont.craigslist.org/",
+                "text": "vermont"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"virginia",
+        
+        "cities": [
+            {
+                "link": "https://charlottesville.craigslist.org/",
+                "text": "charlottesville"
+            },
+            {
+                "link": "https://danville.craigslist.org/",
+                "text": "danville"
+            },
+            {
+                "link": "https://fredericksburg.craigslist.org/",
+                "text": "fredericksburg"
+            },
+            {
+                "link": "https://norfolk.craigslist.org/",
+                "text": "hampton roads"
+            },
+            {
+                "link": "https://harrisonburg.craigslist.org/",
+                "text": "harrisonburg"
+            },
+            {
+                "link": "https://lynchburg.craigslist.org/",
+                "text": "lynchburg"
+            },
+            {
+                "link": "https://blacksburg.craigslist.org/",
+                "text": "new river valley"
+            },
+            {
+                "link": "https://richmond.craigslist.org/",
+                "text": "richmond"
+            },
+            {
+                "link": "https://roanoke.craigslist.org/",
+                "text": "roanoke"
+            },
+            {
+                "link": "https://swva.craigslist.org/",
+                "text": "southwest VA"
+            },
+            {
+                "link": "https://winchester.craigslist.org/",
+                "text": "winchester"
+            }
+        ],
+        "time_zone": "Pacific Time Zone"
+    },
+    {
+        "state_name":"washington",
+        
+        "cities": [
+            {
+                "link": "https://bellingham.craigslist.org/",
+                "text": "bellingham"
+            },
+            {
+                "link": "https://kpr.craigslist.org/",
+                "text": "kennewick-pasco-richland"
+            },
+            {
+                "link": "https://moseslake.craigslist.org/",
+                "text": "moses lake"
+            },
+            {
+                "link": "https://olympic.craigslist.org/",
+                "text": "olympic peninsula"
+            },
+            {
+                "link": "https://pullman.craigslist.org/",
+                "text": "pullman / moscow"
+            },
+            {
+                "link": "https://seattle.craigslist.org/",
+                "text": "seattle-tacoma"
+            },
+            {
+                "link": "https://skagit.craigslist.org/",
+                "text": "skagit / island / SJI"
+            },
+            {
+                "link": "https://spokane.craigslist.org/",
+                "text": "spokane / coeur d alene"
+            },
+            {
+                "link": "https://wenatchee.craigslist.org/",
+                "text": "wenatchee"
+            },
+            {
+                "link": "https://yakima.craigslist.org/",
+                "text": "yakima"
+            }
+        ],
+        "time_zone": "Eastern Time Zone"
+    },
+    {
+        "state_name":"west-virginia",
+        
+        "cities": [
+            {
+                "link": "https://charlestonwv.craigslist.org/",
+                "text": "charleston"
+            },
+            {
+                "link": "https://martinsburg.craigslist.org/",
+                "text": "eastern panhandle"
+            },
+            {
+                "link": "https://huntington.craigslist.org/",
+                "text": "huntington-ashland"
+            },
+            {
+                "link": "https://morgantown.craigslist.org/",
+                "text": "morgantown"
+            },
+            {
+                "link": "https://wheeling.craigslist.org/",
+                "text": "northern panhandle"
+            },
+            {
+                "link": "https://parkersburg.craigslist.org/",
+                "text": "parkersburg-marietta"
+            },
+            {
+                "link": "https://swv.craigslist.org/",
+                "text": "southern WV"
+            },
+            {
+                "link": "https://wv.craigslist.org/",
+                "text": "west virginia (old)"
+            }
+        ],
+        "time_zone": "Central Time Zone"
+    },
+    {
+        "state_name":"wisconsin",
+        
+        "cities": [
+            {
+                "link": "https://appleton.craigslist.org/",
+                "text": "appleton-oshkosh-FDL"
+            },
+            {
+                "link": "https://eauclaire.craigslist.org/",
+                "text": "eau claire"
+            },
+            {
+                "link": "https://greenbay.craigslist.org/",
+                "text": "green bay"
+            },
+            {
+                "link": "https://janesville.craigslist.org/",
+                "text": "janesville"
+            },
+            {
+                "link": "https://racine.craigslist.org/",
+                "text": "kenosha-racine"
+            },
+            {
+                "link": "https://lacrosse.craigslist.org/",
+                "text": "la crosse"
+            },
+            {
+                "link": "https://madison.craigslist.org/",
+                "text": "madison"
+            },
+            {
+                "link": "https://milwaukee.craigslist.org/",
+                "text": "milwaukee"
+            },
+            {
+                "link": "https://northernwi.craigslist.org/",
+                "text": "northern WI"
+            },
+            {
+                "link": "https://sheboygan.craigslist.org/",
+                "text": "sheboygan"
+            },
+            {
+                "link": "https://wausau.craigslist.org/",
+                "text": "wausau"
+            }
+        ],
+        "time_zone": "Mountain Time Zone"
+    },
+    {
+        "state_name":"wyoming",
+        
+        "cities": [
+            {
+                "link": "https://wyoming.craigslist.org/",
+                "text": "wyoming"
+            }
+        ],
+        "time_zone": "Mountain Time Zone"
+    },
+    {
+        "state_name":"territories",
+        
+        "cities": [
+            {
+                "link": "https://micronesia.craigslist.org/",
+                "text": "guam-micronesia"
+            },
+            {
+                "link": "https://puertorico.craigslist.org/",
+                "text": "puerto rico"
+            },
+            {
+                "link": "https://virgin.craigslist.org/",
+                "text": "U.S. virgin islands"
+            }
+        ]
+    }
+]

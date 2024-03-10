@@ -5,14 +5,14 @@ conn = mysql.connector.connect(
     host='localhost',
     user='root',
     password='',
-    database='first_db'
+    database='craigslist'
 )
 
 # Create a cursor object to execute SQL queries
 cursor = conn.cursor()
 
 # Execute a simple SELECT query
-cursor.execute("SELECT * FROM product")
+cursor.execute("SELECT * FROM cities")
 
 # Fetch all the results
 results = cursor.fetchall()
